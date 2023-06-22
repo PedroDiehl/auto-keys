@@ -1,6 +1,7 @@
 import cv2
 from pyzbar import pyzbar
 
+
 users = {
    "19101160": {
       "nome": "Aluno1",
